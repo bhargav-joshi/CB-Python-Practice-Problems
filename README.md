@@ -3,20 +3,20 @@
 
 # 🏆  Python Practice Problems 🏆
 
-💡 Generate Parentheses - FAANG
+💡 [Generate Parentheses - FAANG]()
 
-💡 Simple Input
+💡 [Simple Input]()
 
-💡 Pattern Numbers & Stars - 1
+💡 [Pattern Numbers & Stars - 1]()
 
-💡 Increasing Decreasing Sequence
+💡 [Increasing Decreasing Sequence]()
 
-💡 Pythagorean's Challenge
+💡 [Pythagorean's Challenge]()
 
-💡 Check prime
+💡 [Check prime](https://github.com/bhargav-joshi/CB-Python-Practice-Problems/blob/master/Checkprime.py)
 
-💡 Prime Generator
+💡 [Prime Generator]()
 
-💡 QUICKSORT
+💡 [QUICKSORT]()
 
-💡 MERGESORT
+💡 [MERGESORT]()
